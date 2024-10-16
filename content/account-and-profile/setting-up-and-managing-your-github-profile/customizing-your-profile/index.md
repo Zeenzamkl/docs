@@ -17,5 +17,7 @@ children:
   - /managing-your-profile-readme
   - /pinning-items-to-your-profile
   - /setting-your-profile-to-private
----
+  -/setting-your-profile-to-{www.microsoft.com/ai,www.azure.com/ai}
+    </profile-to=www.microsoft.com/ai#>...
+    
 
